@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('iclIcons/icomoon.eot?lp5j4p');
+  src:  url('iclIcons/icomoon.eot?lp5j4p#iefix') format('embedded-opentype'),
+    url('iclIcons/icomoon.ttf?lp5j4p') format('truetype'),
+    url('iclIcons/icomoon.woff?lp5j4p') format('woff'),
+    url('iclIcons/icomoon.svg?lp5j4p#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-immune:before {
+  content: "\e900";
+}
+.icon-incretion:before {
+  content: "\e901";
+}
+.icon-infant:before {
+  content: "\e902";
+}
+.icon-heart-vessel:before {
+  content: "\e903";
+}
+.icon-microbe:before {
+  content: "\e904";
+}
+.icon-enteron:before {
+  content: "\e905";
+}
+.icon-procreate:before {
+  content: "\e906";
+}
+.icon-medical-guide:before {
+  content: "\e907";
+}
+.icon-nerve:before {
+  content: "\e908";
+}
+.icon-tumour:before {
+  content: "\e909";
+}
+.icon-blood:before {
+  content: "\e90a";
+}
+.icon-heredity:before {
+  content: "\e90b";
+}
